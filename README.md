@@ -1,4 +1,4 @@
-# Telegram_Stealer
+# Telegram stealer
 You can use this Python code, to create .exe file, and use it to steal a Telegram session.
 1) You need to install Python(3.8.2) on your PC.
 2) Install some code editors(I used Sublime Text 3)
